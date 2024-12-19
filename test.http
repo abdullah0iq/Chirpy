@@ -1,0 +1,15 @@
+
+get http://localhost:8080/api/reset
+###
+GET  http://localhost:8080/api/metrics
+###
+GET http://localhost:8080/app
+###
+get http://localhost:8080/app/assets
+###
+GET http://localhost:8080/healthz
+###
+
+get http://localhost:8080/api/users
+###
+get http://localhost:8080/main.go
